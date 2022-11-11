@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "519fbcd8-b446-4119-bbea-9245055a2ac5": {
+      "ProjectGuid": "519fbcd8-b446-4119-bbea-9245055a2ac5",
+      "DisplayName": "events.consoleapp",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}
